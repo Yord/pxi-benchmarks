@@ -15,11 +15,7 @@ See the [`pxi` github repository][pxi] for more details!
 make
 ```
 
-## Output of Last Run
-
-```bash
-
-```
+The benchmark results are reported in the [performance section][pxi-performance] of the `pxi` github repository.
 
 ## Reporting Issues
 
@@ -33,6 +29,7 @@ Please report issues [in the tracker][issues]!
 [issues]: https://github.com/Yord/pxi/issues
 [license]: https://github.com/Yord/pxi-benchmarks/blob/master/LICENSE
 [pxi]: https://github.com/Yord/pxi
+[pxi-performance]: https://github.com/Yord/pxi#performance
 [shield-license]: https://img.shields.io/badge/license-MIT-yellow.svg?labelColor=313A42
 [shield-prs]: https://img.shields.io/badge/PRs-welcome-green.svg?labelColor=313A42
 [teaser]: https://github.com/Yord/pxi-benchmarks/blob/master/teaser.gif?raw=true
